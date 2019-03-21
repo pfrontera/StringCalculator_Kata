@@ -17,6 +17,7 @@
             </e>
           </e>
         </e>
+        <e p="README.md" t="Include" />
         <e p="StringCalculator.cs" t="Include" />
         <e p="StringCalculator_Kata.Core.csproj" t="IncludeRecursive" />
       </e>

@@ -4,10 +4,6 @@
     <list default="true" id="4b88902e-3060-43f2-bc19-9e3baa6a676f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.StringCalculator_Kata/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StringCalculator_Kata/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.StringCalculator_Kata/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StringCalculator_Kata/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringCalculator_Kata.Core/StringCalculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StringCalculator_Kata.Core/StringCalculator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringCalculator_Kata.Core/StringCalculator_Kata.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/StringCalculator_Kata.Core/StringCalculator_Kata.Core.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringCalculator_Kata.Tests/StringCalculatorShould.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StringCalculator_Kata.Tests/StringCalculatorShould.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringCalculator_Kata.Tests/StringCalculator_Kata.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/StringCalculator_Kata.Tests/StringCalculator_Kata.Tests.csproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,28 +15,37 @@
     <splitter split-orientation="horizontal" split-proportion="0.5670436">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/StringCalculator_Kata.Tests/StringCalculatorShould.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="233">
-                  <caret line="130" column="12" selection-start-line="130" selection-start-column="12" selection-end-line="130" selection-end-column="12" />
+                <state relative-caret-position="1710">
+                  <caret line="130" column="70" selection-start-line="130" selection-start-column="70" selection-end-line="130" selection-end-column="70" />
                   <folding>
-                    <marker date="1553201789655" expanded="false" signature="6:125" ph="..." />
-                    <marker date="1553201789655" expanded="true" signature="164:3452" ph="{...}" />
-                    <marker date="1553201789655" expanded="true" signature="193:3450" ph="{...}" />
-                    <marker date="1553201789655" expanded="true" signature="252:414" ph="{...}" />
-                    <marker date="1553201789655" expanded="true" signature="472:652" ph="{...}" />
-                    <marker date="1553201789655" expanded="true" signature="708:889" ph="{...}" />
-                    <marker date="1553201789655" expanded="true" signature="946:1155" ph="{...}" />
-                    <marker date="1553201789655" expanded="true" signature="1214:1424" ph="{...}" />
-                    <marker date="1553201789655" expanded="true" signature="1485:1696" ph="{...}" />
-                    <marker date="1553201789655" expanded="true" signature="1765:1977" ph="{...}" />
-                    <marker date="1553201789655" expanded="true" signature="2044:2295" ph="{...}" />
-                    <marker date="1553201789655" expanded="true" signature="2365:2591" ph="{...}" />
-                    <marker date="1553201789655" expanded="true" signature="2661:2905" ph="{...}" />
-                    <marker date="1553201789655" expanded="true" signature="2983:3221" ph="{...}" />
-                    <marker date="1553201789655" expanded="true" signature="3284:3444" ph="{...}" />
+                    <marker date="1553201816588" expanded="false" signature="6:125" ph="..." />
+                    <marker date="1553201816588" expanded="true" signature="164:3512" ph="{...}" />
+                    <marker date="1553201816588" expanded="true" signature="193:3510" ph="{...}" />
+                    <marker date="1553201816588" expanded="true" signature="252:414" ph="{...}" />
+                    <marker date="1553201816588" expanded="true" signature="472:652" ph="{...}" />
+                    <marker date="1553201816588" expanded="true" signature="708:889" ph="{...}" />
+                    <marker date="1553201816588" expanded="true" signature="946:1155" ph="{...}" />
+                    <marker date="1553201816588" expanded="true" signature="1214:1424" ph="{...}" />
+                    <marker date="1553201816588" expanded="true" signature="1485:1696" ph="{...}" />
+                    <marker date="1553201816588" expanded="true" signature="1765:1977" ph="{...}" />
+                    <marker date="1553201816588" expanded="true" signature="2044:2295" ph="{...}" />
+                    <marker date="1553201816588" expanded="true" signature="2365:2591" ph="{...}" />
+                    <marker date="1553201816588" expanded="true" signature="2661:2905" ph="{...}" />
+                    <marker date="1553201816588" expanded="true" signature="2983:3221" ph="{...}" />
+                    <marker date="1553201816588" expanded="true" signature="3284:3504" ph="{...}" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/StringCalculator_Kata.Core/README.md">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="535">
+                  <caret line="158" column="307" selection-start-line="158" selection-start-column="307" selection-end-line="158" selection-end-column="307" />
                 </state>
               </provider>
             </entry>
@@ -52,7 +57,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/StringCalculator_Kata.Core/StringCalculator.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="660">
+                <state relative-caret-position="487">
                   <caret line="47" selection-start-line="47" selection-end-line="47" />
                   <folding>
                     <marker date="1553201556953" expanded="false" signature="6:112" ph="..." />
@@ -84,8 +89,6 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/StringCalculator_Kata.Core/StringCalculator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/StringCalculator_Kata.Tests/StringCalculatorShould.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -97,10 +100,11 @@
         <option value="$PROJECT_DIR$/StringCalculator_Kata.Tests/HelloWorldShould.cs" />
         <option value="$PROJECT_DIR$/StringCalculator_Kata.Core/StringCalculator.cs" />
         <option value="$PROJECT_DIR$/StringCalculator_Kata.Tests/StringCalculatorShould.cs" />
+        <option value="$PROJECT_DIR$/StringCalculator_Kata.Core/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="709" />
@@ -110,25 +114,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="StringCalculator_Kata" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="StringCalculator_Kata" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="StringCalculator_Kata.Tests" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -163,12 +153,13 @@
       <option name="presentableId" value="Default" />
       <updated>1552558590808</updated>
       <workItem from="1552558591979" duration="15383000" />
-      <workItem from="1553198545909" duration="3130000" />
+      <workItem from="1553198545909" duration="3569000" />
+      <workItem from="1553202546781" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19505000" />
+    <option name="totallyTimeSpent" value="19956000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -180,10 +171,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="709" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2092084" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21243942" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -200,7 +190,7 @@
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4983845" weight="0.32876712" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" sideWeight="0.6042003" visible="true" weight="0.14246576" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" sideWeight="0.6042003" weight="0.14246576" />
       <window_info anchor="bottom" id="Terminal" order="13" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.39579967" side_tool="true" weight="0.35068494" />
       <window_info anchor="bottom" id="Build" order="15" sideWeight="0.4983845" weight="0.32876712" />
@@ -317,12 +307,41 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9D995D4A-0EBE-4A93-85A6-BE06CB7C70EE/e0/52ad85e2/FactAttribute.cs" />
     <entry file="file://$PROJECT_DIR$/StringCalculator_Kata.Core/HelloWorld.cs" />
     <entry file="file://$PROJECT_DIR$/StringCalculator_Kata.Tests/HelloWorldShould.cs" />
-    <entry file="file://$PROJECT_DIR$/.idea/.idea.StringCalculator_Kata/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/.idea/.idea.StringCalculator_Kata/.idea/vcs.xml" />
+    <entry file="file://$PROJECT_DIR$/StringCalculator_Kata.Tests/StringCalculatorShould.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="130" column="70" selection-start-line="130" selection-start-column="70" selection-end-line="130" selection-end-column="70" />
+          <folding>
+            <marker date="1553201816588" expanded="false" signature="6:125" ph="..." />
+            <marker date="1553201816588" expanded="true" signature="164:3512" ph="{...}" />
+            <marker date="1553201816588" expanded="true" signature="193:3510" ph="{...}" />
+            <marker date="1553201816588" expanded="true" signature="252:414" ph="{...}" />
+            <marker date="1553201816588" expanded="true" signature="472:652" ph="{...}" />
+            <marker date="1553201816588" expanded="true" signature="708:889" ph="{...}" />
+            <marker date="1553201816588" expanded="true" signature="946:1155" ph="{...}" />
+            <marker date="1553201816588" expanded="true" signature="1214:1424" ph="{...}" />
+            <marker date="1553201816588" expanded="true" signature="1485:1696" ph="{...}" />
+            <marker date="1553201816588" expanded="true" signature="1765:1977" ph="{...}" />
+            <marker date="1553201816588" expanded="true" signature="2044:2295" ph="{...}" />
+            <marker date="1553201816588" expanded="true" signature="2365:2591" ph="{...}" />
+            <marker date="1553201816588" expanded="true" signature="2661:2905" ph="{...}" />
+            <marker date="1553201816588" expanded="true" signature="2983:3221" ph="{...}" />
+            <marker date="1553201816588" expanded="true" signature="3284:3504" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringCalculator_Kata.Core/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="158" column="307" selection-start-line="158" selection-start-column="307" selection-end-line="158" selection-end-column="307" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/StringCalculator_Kata.Core/StringCalculator.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
+        <state relative-caret-position="487">
           <caret line="47" selection-start-line="47" selection-end-line="47" />
           <folding>
             <marker date="1553201556953" expanded="false" signature="6:112" ph="..." />
@@ -334,30 +353,6 @@
             <marker date="1553201556953" expanded="true" signature="951:1133" ph="{...}" />
             <marker date="1553201556953" expanded="true" signature="1039:1096" ph="{...}" />
             <marker date="1553201556953" expanded="true" signature="1207:1331" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StringCalculator_Kata.Tests/StringCalculatorShould.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="130" column="12" selection-start-line="130" selection-start-column="12" selection-end-line="130" selection-end-column="12" />
-          <folding>
-            <marker date="1553201789655" expanded="false" signature="6:125" ph="..." />
-            <marker date="1553201789655" expanded="true" signature="164:3452" ph="{...}" />
-            <marker date="1553201789655" expanded="true" signature="193:3450" ph="{...}" />
-            <marker date="1553201789655" expanded="true" signature="252:414" ph="{...}" />
-            <marker date="1553201789655" expanded="true" signature="472:652" ph="{...}" />
-            <marker date="1553201789655" expanded="true" signature="708:889" ph="{...}" />
-            <marker date="1553201789655" expanded="true" signature="946:1155" ph="{...}" />
-            <marker date="1553201789655" expanded="true" signature="1214:1424" ph="{...}" />
-            <marker date="1553201789655" expanded="true" signature="1485:1696" ph="{...}" />
-            <marker date="1553201789655" expanded="true" signature="1765:1977" ph="{...}" />
-            <marker date="1553201789655" expanded="true" signature="2044:2295" ph="{...}" />
-            <marker date="1553201789655" expanded="true" signature="2365:2591" ph="{...}" />
-            <marker date="1553201789655" expanded="true" signature="2661:2905" ph="{...}" />
-            <marker date="1553201789655" expanded="true" signature="2983:3221" ph="{...}" />
-            <marker date="1553201789655" expanded="true" signature="3284:3444" ph="{...}" />
           </folding>
         </state>
       </provider>
