@@ -59,6 +59,17 @@ namespace StringCalculator_Kata.Tests
         public void TestWithCommaSeparated()
         {
             var expected = 6;
+            var numbers = "1,2,3";
+            
+            var result = StringCalculator.Add(numbers);
+            
+            Assert.Equal(expected, result);
+        }
+        
+        [Fact]
+        public void TestSupportingNewLines()
+        {
+            var expected = 6;
             var numbers = "1\n2,3";
             
             var result = StringCalculator.Add(numbers);
@@ -67,9 +78,32 @@ namespace StringCalculator_Kata.Tests
         }
 
         [Fact]
-        public void TestSupportDelimiter()
+        public void TestContainsDefaultDelimiter()
         {
-            var expected = ';';
+            var numbers = "//;\n1;2";
+            var expected = true;
+            
+            var result = StringCalculator.ContainsDefaultDelimiter(numbers);
+            
+            Assert.Equal(expected, result);
+            
+        }
+
+        [Fact]
+        public void TestNotContainsDefaultDelimiter()
+        {
+            var numbers = "1,2,3,4";
+            var expected = false;
+
+            var result = StringCalculator.ContainsDefaultDelimiter(numbers);
+            
+            Assert.Equal(expected, result);
+        }
+        
+        [Fact]
+        public void TestGetDefaultDelimiter()
+        {
+            var expected = new char[]{';'};
             var numbers = "//;\n1;2";
             
             var result = StringCalculator.GetDefaultDelimiter(numbers);
@@ -78,21 +112,23 @@ namespace StringCalculator_Kata.Tests
         }
 
         [Fact]
-        public void TestFirstLineOptional()
+        public void TestGetDefaultDelimiterWithoutFirstLine()
         {
-            var expected = '.';
-            var numbers = "1.2.3.4";
+            var expected = new char[] {',', '\n'};
+            var numbers = "1,2,3,4";
 
             var result = StringCalculator.GetDefaultDelimiter(numbers);
             
             Assert.Equal(expected, result);
         }
 
+
         [Fact]
         public void TestWithNegativeNumbers()
         {
-            var numbers = "a";
-            Assert.Throws<Exception>(() => StringCalculator.Add(numbers));
+            var numbers = "1,-2,3";
+            var exception = Assert.Throws<Exception>(() => StringCalculator.Add(numbers));
+            Assert.Equal("Passed a negative number", exception.Message);
         }
     }
 }

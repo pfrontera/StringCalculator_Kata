@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b88902e-3060-43f2-bc19-9e3baa6a676f" name="Default Changelist" comment="" />
+    <list default="true" id="4b88902e-3060-43f2-bc19-9e3baa6a676f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StringCalculator_Kata/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StringCalculator_Kata/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StringCalculator_Kata/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StringCalculator_Kata/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringCalculator_Kata.Core/StringCalculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StringCalculator_Kata.Core/StringCalculator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringCalculator_Kata.Core/StringCalculator_Kata.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/StringCalculator_Kata.Core/StringCalculator_Kata.Core.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringCalculator_Kata.Tests/StringCalculatorShould.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StringCalculator_Kata.Tests/StringCalculatorShould.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringCalculator_Kata.Tests/StringCalculator_Kata.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/StringCalculator_Kata.Tests/StringCalculator_Kata.Tests.csproj" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,49 +16,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4939976">
+    <splitter split-orientation="horizontal" split-proportion="0.5670436">
       <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/StringCalculator_Kata.Core/HelloWorld.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="324">
-                  <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
-                  <folding>
-                    <marker date="1552577281787" expanded="true" signature="6:32" ph="..." />
-                    <marker date="1552577281787" expanded="true" signature="150:1347" ph="{...}" />
-                    <marker date="1552577281787" expanded="true" signature="193:1345" ph="{...}" />
-                    <marker date="1552577281787" expanded="true" signature="241:295" ph="{...}" />
-                    <marker date="1552577281787" expanded="true" signature="342:894" ph="{...}" />
-                    <marker date="1552577281787" expanded="true" signature="412:466" ph="{...}" />
-                    <marker date="1552577281787" expanded="true" signature="715:842" ph="{...}" />
-                    <marker date="1552577281787" expanded="true" signature="958:1316" ph="{...}" />
-                    <marker date="1552577281787" expanded="true" signature="1046:1109" ph="{...}" />
-                    <marker date="1552577281787" expanded="true" signature="1149:1281" ph="{...}" />
-                    <marker date="1552577281787" expanded="true" signature="1201:1267" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/StringCalculator_Kata.Tests/HelloWorldShould.cs">
+            <entry file="file://$PROJECT_DIR$/StringCalculator_Kata.Tests/StringCalculatorShould.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="520">
-                  <caret line="94" column="74" selection-start-line="94" selection-start-column="74" selection-end-line="94" selection-end-column="74" />
+                <state relative-caret-position="233">
+                  <caret line="130" column="12" selection-start-line="130" selection-start-column="12" selection-end-line="130" selection-end-column="12" />
                   <folding>
-                    <marker date="1552577281799" expanded="true" signature="6:125" ph="..." />
-                    <marker date="1552577281799" expanded="true" signature="164:2463" ph="{...}" />
-                    <marker date="1552577281799" expanded="true" signature="193:2461" ph="{...}" />
-                    <marker date="1552577281799" expanded="true" signature="252:414" ph="{...}" />
-                    <marker date="1552577281799" expanded="true" signature="472:652" ph="{...}" />
-                    <marker date="1552577281799" expanded="true" signature="708:889" ph="{...}" />
-                    <marker date="1552577281799" expanded="true" signature="946:1155" ph="{...}" />
-                    <marker date="1552577281799" expanded="true" signature="1214:1424" ph="{...}" />
-                    <marker date="1552577281799" expanded="true" signature="1485:1697" ph="{...}" />
-                    <marker date="1552577281799" expanded="true" signature="1756:1988" ph="{...}" />
-                    <marker date="1552577281799" expanded="true" signature="2048:2267" ph="{...}" />
-                    <marker date="1552577281799" expanded="true" signature="2329:2455" ph="{...}" />
+                    <marker date="1553201789655" expanded="false" signature="6:125" ph="..." />
+                    <marker date="1553201789655" expanded="true" signature="164:3452" ph="{...}" />
+                    <marker date="1553201789655" expanded="true" signature="193:3450" ph="{...}" />
+                    <marker date="1553201789655" expanded="true" signature="252:414" ph="{...}" />
+                    <marker date="1553201789655" expanded="true" signature="472:652" ph="{...}" />
+                    <marker date="1553201789655" expanded="true" signature="708:889" ph="{...}" />
+                    <marker date="1553201789655" expanded="true" signature="946:1155" ph="{...}" />
+                    <marker date="1553201789655" expanded="true" signature="1214:1424" ph="{...}" />
+                    <marker date="1553201789655" expanded="true" signature="1485:1696" ph="{...}" />
+                    <marker date="1553201789655" expanded="true" signature="1765:1977" ph="{...}" />
+                    <marker date="1553201789655" expanded="true" signature="2044:2295" ph="{...}" />
+                    <marker date="1553201789655" expanded="true" signature="2365:2591" ph="{...}" />
+                    <marker date="1553201789655" expanded="true" signature="2661:2905" ph="{...}" />
+                    <marker date="1553201789655" expanded="true" signature="2983:3221" ph="{...}" />
+                    <marker date="1553201789655" expanded="true" signature="3284:3444" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -60,24 +48,22 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/StringCalculator_Kata.Core/HelloWorld.cs">
+            <entry file="file://$PROJECT_DIR$/StringCalculator_Kata.Core/StringCalculator.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="176">
-                  <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+                <state relative-caret-position="660">
+                  <caret line="47" selection-start-line="47" selection-end-line="47" />
                   <folding>
-                    <marker date="1552577281787" expanded="true" signature="6:32" ph="..." />
-                    <marker date="1552577281787" expanded="true" signature="150:1347" ph="{...}" />
-                    <marker date="1552577281787" expanded="true" signature="193:1345" ph="{...}" />
-                    <marker date="1552577281787" expanded="true" signature="241:295" ph="{...}" />
-                    <marker date="1552577281787" expanded="true" signature="342:894" ph="{...}" />
-                    <marker date="1552577281787" expanded="true" signature="412:466" ph="{...}" />
-                    <marker date="1552577281787" expanded="true" signature="715:842" ph="{...}" />
-                    <marker date="1552577281787" expanded="true" signature="958:1316" ph="{...}" />
-                    <marker date="1552577281787" expanded="true" signature="1046:1109" ph="{...}" />
-                    <marker date="1552577281787" expanded="true" signature="1149:1281" ph="{...}" />
-                    <marker date="1552577281787" expanded="true" signature="1201:1267" ph="{...}" />
+                    <marker date="1553201556953" expanded="false" signature="6:112" ph="..." />
+                    <marker date="1553201556953" expanded="true" signature="150:1342" ph="{...}" />
+                    <marker date="1553201556953" expanded="true" signature="193:1340" ph="{...}" />
+                    <marker date="1553201556953" expanded="true" signature="241:295" ph="{...}" />
+                    <marker date="1553201556953" expanded="true" signature="342:882" ph="{...}" />
+                    <marker date="1553201556953" expanded="true" signature="703:830" ph="{...}" />
+                    <marker date="1553201556953" expanded="true" signature="951:1133" ph="{...}" />
+                    <marker date="1553201556953" expanded="true" signature="1039:1096" ph="{...}" />
+                    <marker date="1553201556953" expanded="true" signature="1207:1331" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -87,19 +73,19 @@
       </split-second>
     </splitter>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="pere.frontera@gmail.com" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../Args-Kata/ArgsKata.Tests/GreeterShould.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///C# Console" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9DE46E3C-963E-4872-8A29-95FD027553CC/c2/067b130f/Void.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/StringCalculator_Kata.Core/HelloWorld.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/StringCalculator_Kata.Tests/HelloWorldShould.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StringCalculator_Kata.Core/StringCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StringCalculator_Kata.Tests/StringCalculatorShould.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///C# Console" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9D995D4A-0EBE-4A93-85A6-BE06CB7C70EE/e0/52ad85e2/FactAttribute.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -109,32 +95,27 @@
         <option value="$PROJECT_DIR$/StringCalculator_Kata.Tests/StringCalculator_Kata.Tests.csproj" />
         <option value="$PROJECT_DIR$/StringCalculator_Kata.Core/HelloWorld.cs" />
         <option value="$PROJECT_DIR$/StringCalculator_Kata.Tests/HelloWorldShould.cs" />
+        <option value="$PROJECT_DIR$/StringCalculator_Kata.Core/StringCalculator.cs" />
+        <option value="$PROJECT_DIR$/StringCalculator_Kata.Tests/StringCalculatorShould.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="709" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="StringCalculator_Kata" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="StringCalculator_Kata" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="StringCalculator_Kata.Core" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
@@ -147,13 +128,14 @@
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Args-Kata" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Args-Kata" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -181,11 +163,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552558590808</updated>
       <workItem from="1552558591979" duration="15383000" />
+      <workItem from="1553198545909" duration="3130000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15383000" />
+    <option name="totallyTimeSpent" value="19505000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -197,43 +180,49 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1119403" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2092084" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Unit Tests" visible="true" weight="0.23444444" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Performance Profiler" />
-      <window_info anchor="bottom" id="Build" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.27333334" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4983845" weight="0.27260274" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4983845" weight="0.32876712" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" sideWeight="0.6042003" visible="true" weight="0.14246576" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.39579967" side_tool="true" weight="0.35068494" />
+      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.4983845" weight="0.32876712" />
+      <window_info anchor="bottom" id="Messages" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Rename files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rename files" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -244,14 +233,7 @@
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/StringCalculator_Kata.Core/HelloWorld.cs</url>
           <line>32</line>
-          <properties documentPath="$PROJECT_DIR$/StringCalculator_Kata.Core/HelloWorld.cs" initialLine="31">
-            <startOffsets>
-              <option value="856" />
-            </startOffsets>
-            <endOffsets>
-              <option value="884" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/StringCalculator_Kata.Core/HelloWorld.cs" initialLine="31" />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
@@ -260,25 +242,55 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>numbers.Split(new Char[]{',','\n','\\'})</expression-string>
+        <expression-string>numbers[0][1]</expression-string>
         <language-id>C#</language-id>
         <custom-info>RiderImportsList:</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>numbers.Split(new Char[]{',','\n','\\'});</expression-string>
+        <expression-string>numbers[0,1]</expression-string>
         <language-id>C#</language-id>
         <custom-info>RiderImportsList:</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>numbers.Split(new Char[]{',','\n','\\'}, StringSplitOptions.RemoveEmptyEntries);</expression-string>
+        <expression-string>numbers.Take(2)</expression-string>
         <language-id>C#</language-id>
         <custom-info>RiderImportsList:</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>numbers.Split(new Char[]{',',';','\n','\\'}, StringSplitOptions.RemoveEmptyEntries);</expression-string>
+        <expression-string>new string(numbers.Take(4).ToArray())</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new string(numbers.Take(4).ToList())</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nes string(numbers.Take(4).ToList())</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>string(numbers.Take(4).ToList())</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>numbers.Take(4).ToList().ToString()</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>numbers.Take(4).ToList()</expression-string>
         <language-id>C#</language-id>
         <custom-info>RiderImportsList:</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -286,16 +298,7 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../Args-Kata/ArgsKata.Tests/GreeterShould.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="49" column="24" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#184#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Args-Kata/ArgsKata.Tests/GreeterShould.cs" />
     <entry file="file://$PROJECT_DIR$/StringCalculator_Kata.Core/StringCalculator_Kata.Core.csproj">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -310,57 +313,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9DE46E3C-963E-4872-8A29-95FD027553CC/c2/067b130f/Void.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9DE46E3C-963E-4872-8A29-95FD027553CC/c2/067b130f/Void.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9D995D4A-0EBE-4A93-85A6-BE06CB7C70EE/e0/52ad85e2/FactAttribute.cs" />
+    <entry file="file://$PROJECT_DIR$/StringCalculator_Kata.Core/HelloWorld.cs" />
+    <entry file="file://$PROJECT_DIR$/StringCalculator_Kata.Tests/HelloWorldShould.cs" />
+    <entry file="file://$PROJECT_DIR$/.idea/.idea.StringCalculator_Kata/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9D995D4A-0EBE-4A93-85A6-BE06CB7C70EE/e0/52ad85e2/FactAttribute.cs">
+    <entry file="file://$PROJECT_DIR$/StringCalculator_Kata.Core/StringCalculator.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StringCalculator_Kata.Core/HelloWorld.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+        <state relative-caret-position="660">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
           <folding>
-            <marker date="1552577281787" expanded="true" signature="6:32" ph="..." />
-            <marker date="1552577281787" expanded="true" signature="150:1347" ph="{...}" />
-            <marker date="1552577281787" expanded="true" signature="193:1345" ph="{...}" />
-            <marker date="1552577281787" expanded="true" signature="241:295" ph="{...}" />
-            <marker date="1552577281787" expanded="true" signature="342:894" ph="{...}" />
-            <marker date="1552577281787" expanded="true" signature="412:466" ph="{...}" />
-            <marker date="1552577281787" expanded="true" signature="715:842" ph="{...}" />
-            <marker date="1552577281787" expanded="true" signature="958:1316" ph="{...}" />
-            <marker date="1552577281787" expanded="true" signature="1046:1109" ph="{...}" />
-            <marker date="1552577281787" expanded="true" signature="1149:1281" ph="{...}" />
-            <marker date="1552577281787" expanded="true" signature="1201:1267" ph="{...}" />
+            <marker date="1553201556953" expanded="false" signature="6:112" ph="..." />
+            <marker date="1553201556953" expanded="true" signature="150:1342" ph="{...}" />
+            <marker date="1553201556953" expanded="true" signature="193:1340" ph="{...}" />
+            <marker date="1553201556953" expanded="true" signature="241:295" ph="{...}" />
+            <marker date="1553201556953" expanded="true" signature="342:882" ph="{...}" />
+            <marker date="1553201556953" expanded="true" signature="703:830" ph="{...}" />
+            <marker date="1553201556953" expanded="true" signature="951:1133" ph="{...}" />
+            <marker date="1553201556953" expanded="true" signature="1039:1096" ph="{...}" />
+            <marker date="1553201556953" expanded="true" signature="1207:1331" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StringCalculator_Kata.Tests/HelloWorldShould.cs">
+    <entry file="file://$PROJECT_DIR$/StringCalculator_Kata.Tests/StringCalculatorShould.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="94" column="74" selection-start-line="94" selection-start-column="74" selection-end-line="94" selection-end-column="74" />
+        <state relative-caret-position="233">
+          <caret line="130" column="12" selection-start-line="130" selection-start-column="12" selection-end-line="130" selection-end-column="12" />
           <folding>
-            <marker date="1552577281799" expanded="true" signature="6:125" ph="..." />
-            <marker date="1552577281799" expanded="true" signature="164:2463" ph="{...}" />
-            <marker date="1552577281799" expanded="true" signature="193:2461" ph="{...}" />
-            <marker date="1552577281799" expanded="true" signature="252:414" ph="{...}" />
-            <marker date="1552577281799" expanded="true" signature="472:652" ph="{...}" />
-            <marker date="1552577281799" expanded="true" signature="708:889" ph="{...}" />
-            <marker date="1552577281799" expanded="true" signature="946:1155" ph="{...}" />
-            <marker date="1552577281799" expanded="true" signature="1214:1424" ph="{...}" />
-            <marker date="1552577281799" expanded="true" signature="1485:1697" ph="{...}" />
-            <marker date="1552577281799" expanded="true" signature="1756:1988" ph="{...}" />
-            <marker date="1552577281799" expanded="true" signature="2048:2267" ph="{...}" />
-            <marker date="1552577281799" expanded="true" signature="2329:2455" ph="{...}" />
+            <marker date="1553201789655" expanded="false" signature="6:125" ph="..." />
+            <marker date="1553201789655" expanded="true" signature="164:3452" ph="{...}" />
+            <marker date="1553201789655" expanded="true" signature="193:3450" ph="{...}" />
+            <marker date="1553201789655" expanded="true" signature="252:414" ph="{...}" />
+            <marker date="1553201789655" expanded="true" signature="472:652" ph="{...}" />
+            <marker date="1553201789655" expanded="true" signature="708:889" ph="{...}" />
+            <marker date="1553201789655" expanded="true" signature="946:1155" ph="{...}" />
+            <marker date="1553201789655" expanded="true" signature="1214:1424" ph="{...}" />
+            <marker date="1553201789655" expanded="true" signature="1485:1696" ph="{...}" />
+            <marker date="1553201789655" expanded="true" signature="1765:1977" ph="{...}" />
+            <marker date="1553201789655" expanded="true" signature="2044:2295" ph="{...}" />
+            <marker date="1553201789655" expanded="true" signature="2365:2591" ph="{...}" />
+            <marker date="1553201789655" expanded="true" signature="2661:2905" ph="{...}" />
+            <marker date="1553201789655" expanded="true" signature="2983:3221" ph="{...}" />
+            <marker date="1553201789655" expanded="true" signature="3284:3444" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -14,13 +14,11 @@ namespace StringCalculator_Kata.Core
 
         public static int Add(string numbers)
         {
-            
-            if (string.IsNullOrEmpty(numbers))
-            {
-                return 0;
-            }
+            if (string.IsNullOrEmpty(numbers)) return 0;
 
-            var splitedNumbers = numbers.Split(new char[]{',', '\n'},StringSplitOptions.RemoveEmptyEntries);
+            var splitedNumbers = numbers
+                .Split(GetDefaultDelimiter(numbers),
+                    StringSplitOptions.RemoveEmptyEntries);
 
             
             var parsed_numbers = new int[splitedNumbers.Length];
@@ -33,25 +31,20 @@ namespace StringCalculator_Kata.Core
             return parsed_numbers.Sum();
         }
 
-        public static char GetDefaultDelimiter(string numbers)
+        public static bool ContainsDefaultDelimiter(string numbers)
         {
             if (numbers[0] == '/' && numbers[1] == '/' && numbers[3] == '\n')
             {
-                return numbers[2];
+                return true;
             }
 
-            foreach (var n in numbers)
-            {
-                if (!Char.IsDigit(n))
-                {
-                    return n;
-                }
-            }
-
-            return ',';
+            return false;
         }
-
         
-            
+        public static char[] GetDefaultDelimiter(string numbers)
+        {
+            return ContainsDefaultDelimiter(numbers) ? new char[] {numbers[2]} : new char[]{',', '\n'};
+        }
+  
     }
 }
