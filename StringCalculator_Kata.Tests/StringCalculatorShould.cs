@@ -124,11 +124,19 @@ namespace StringCalculator_Kata.Tests
 
 
         [Fact]
-        public void TestWithNegativeNumbers()
+        public void TestWithNegativeNumber()
         {
             var numbers = "1,-2,3";
-            var exception = Assert.Throws<Exception>(() => StringCalculator.Add(numbers));
-            Assert.Equal("Passed a negative number", exception.Message);
+            var exception = Assert.Throws<ArgumentException>(() => StringCalculator.Add(numbers));
+            Assert.Equal("negatives not allowed: -2", exception.Message);
+        }
+        
+        [Fact]
+        public void TestWithNegativeNumbers()
+        {
+            var numbers = "1,-2,3,-4,-55";
+            var exception = Assert.Throws<ArgumentException>(() => StringCalculator.Add(numbers));
+            Assert.Equal("negatives not allowed: -2,-4,-55", exception.Message);
         }
     }
 }
