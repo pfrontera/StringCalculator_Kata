@@ -17,14 +17,21 @@ namespace StringCalculator_Kata.Core
         {
             if (string.IsNullOrEmpty(numbers)) return 0;
 
-            var splitedNumbers = numbers
-                .Split(GetDefaultDelimiter(numbers),
-                    StringSplitOptions.RemoveEmptyEntries);
+            var splitedNumbers = SplitNumbers(numbers);
 
             
             var parsed_numbers = ParseNumbers(splitedNumbers);
             CheckNegativeNumbers(parsed_numbers);
-            return parsed_numbers.Sum();
+            var final_numbers = RemoveGreaterThanOneThousand(parsed_numbers);
+            
+            return final_numbers.Sum();
+        }
+
+        private static string[] SplitNumbers(string numbers)
+        {
+            return numbers
+                .Split(GetDefaultDelimiter(numbers),
+                    StringSplitOptions.RemoveEmptyEntries);
         }
 
         private static int[] ParseNumbers(string[] splitedNumbers)
@@ -58,6 +65,9 @@ namespace StringCalculator_Kata.Core
             var joined = string.Join(",", negative_numbers);
             throw new ArgumentException(string.Format($"negatives not allowed: {joined}"));
         }
-  
+
+        public static IEnumerable<int> RemoveGreaterThanOneThousand(IEnumerable<int> parsed_numbers) =>    
+        parsed_numbers.Where(n => n < 1000);
+        
     }
 }

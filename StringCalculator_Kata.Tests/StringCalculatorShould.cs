@@ -122,7 +122,6 @@ namespace StringCalculator_Kata.Tests
             Assert.Equal(expected, result);
         }
 
-
         [Fact]
         public void TestWithNegativeNumber()
         {
@@ -137,6 +136,28 @@ namespace StringCalculator_Kata.Tests
             var numbers = "1,-2,3,-4,-55";
             var exception = Assert.Throws<ArgumentException>(() => StringCalculator.Add(numbers));
             Assert.Equal("negatives not allowed: -2,-4,-55", exception.Message);
+        }
+
+        [Fact]
+        public void TestRemoveNumbersGreatherThanOneThousand()
+        {
+            var numbers = new int[] {1000,2,1003,1};
+            var expected = new int[] {2, 1};
+
+            var result = StringCalculator.RemoveGreaterThanOneThousand(numbers);
+            
+            Assert.Equal(expected, result);
+        }
+        
+        [Fact]
+        public void TestIgnoreNumbersGreaterThanOneThousand()
+        {
+            var numbers = "1000,2,1003,1";
+            var expected = 3;
+            
+            var result = StringCalculator.Add(numbers);
+            
+            Assert.Equal(expected, result);
         }
     }
 }
